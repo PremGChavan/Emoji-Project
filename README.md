@@ -12,7 +12,7 @@ This project is a simple web application that displays a collection of emojis. U
 
 ## Demo
 
-You can view a live demo of the project [here]().
+You can view a live demo of the project [here](https://premgchavan.github.io/Emoji-Project/).
 
 ## Technologies Used
 
